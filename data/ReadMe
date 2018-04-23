@@ -1,0 +1,10 @@
+This library is created by:
+- Alison XU 
+- Reynold Nathaniel TANTON
+- Stephen TANJUNG
+- Lynn SHIN
+
+Steps before run the index.html:
+1. Revise the server, login, and password in the connection.php before running the index.html
+2. Run the create_table.php to create the table in the database
+3. Run the index.html
